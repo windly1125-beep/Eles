@@ -1,0 +1,6 @@
+{
+  "name": "Willbet 娱乐场大厅",
+  "description": "Willbet 移动端在线娱乐平台大厅，集热门游戏、真人娱乐场、21点、捕鱼、扑克于一体的高级暗黑游戏平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
